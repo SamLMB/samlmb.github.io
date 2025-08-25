@@ -13,7 +13,7 @@ title                    : "Samuel Mathews, PhD Candidate"
 title_separator          : "-"
 name                     : &name "Samuel Mathews"
 description              : &description "personal description"
-url                      : http://localhost:4000
+url                      : https://smphd.com
 # url should be https://smphd.com (http://localhost:4000 on dev)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SamLMB/samlmb.github.io"
