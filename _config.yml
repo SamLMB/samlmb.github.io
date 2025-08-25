@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Samuel Mathews"
 title_separator          : "-"
 name                     : &name "Samuel Mathews"
-description              : &description "PhD Candidate"
-url                      : http://localhost:4000
+description              : &description "personal description"
+url                      : https://smphd.com
 # url should be https://smphd.com (http://localhost:4000 on dev)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SamLMB/samlmb.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile-shot.png"
   name             : "Samuel Mathews"
   pronouns         : #NA
-  bio              : # side bar description
+  bio              : "PhD Candidate"
   location         : "Montréal"
   employer         : "McGill University"
   uri              : # this website
