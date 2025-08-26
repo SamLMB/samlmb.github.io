@@ -66,7 +66,7 @@ My detailed CV can be downloaded [here](http://smphd.com/files/cv_LONG.pdf).
 
 # Education
 
-## PhD Engineering -- January 2021 to April 2026
+## Doctor of Philosophy (PhD), Chemical Engineering -- January 2021 to April 2026
 
 ### *McGill University, Montréal, Canada*
 
@@ -76,7 +76,7 @@ My detailed CV can be downloaded [here](http://smphd.com/files/cv_LONG.pdf).
 - McGill Engineering Doctoral Award
 - Relevant Coursework: Foundations of Fluid Mechanics, Process Dynamics and Control
 
-## Master of Engineering -- May 2018 to April 2020
+## Master of Engineering (MEng), Chemical Engineering -- May 2018 to April 2020
 
 ### *McGill University, Montréal, Canada*
 
@@ -85,7 +85,7 @@ My detailed CV can be downloaded [here](http://smphd.com/files/cv_LONG.pdf).
 - McGill Engineering Undergraduate Student Master's Award
 - Relevant Coursework: Graduate Thermodynamics, Graduate Computational Methods, Quantum Materials
 
-## Bachelor of Engineering -- September 2014 to April 2018
+## Bachelor of Engineering (BEng), Chemical Engineering -- September 2014 to April 2018
 
 ### *McGill University, Montréal, Canada*
 
