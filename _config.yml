@@ -24,9 +24,9 @@ repository               : "SamLMB/samlmb.github.io"
 author:
   # Biographic information
   avatar           : "profile-shot.png"
-  name             : "Samuel Mathews"
+  name             : "Samuel Mathews, PhD"
   pronouns         : #NA
-  bio              : "Ph.D. in Engineering | Data Science | Modeling | High Performance Computing | Finance and Engineering Problems"
+  bio              : "PhD in Engineering | Data Science | Material Modeling | High Performance Computing | Finance and Engineering Problems"
   location         : "Montréal"
   employer         : "McGill University"
   uri              : # this website

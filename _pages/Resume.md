@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
-My detailed CV can be downloaded [here](http://smphd.com/files/cv_LONG.pdf).
+My resume can be downloaded [here](http://smphd.com/files/cv_SCI.pdf).
 
 # Experience
 
