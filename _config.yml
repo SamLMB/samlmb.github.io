@@ -13,7 +13,7 @@ title                    : "Samuel Mathews"
 title_separator          : "-"
 name                     : &name "Samuel Mathews"
 description              : &description "personal description"
-url                      : https://smphd.com
+url                      : http://localhost:4000
 # url should be https://smphd.com (http://localhost:4000 on dev)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SamLMB/samlmb.github.io"
@@ -24,9 +24,9 @@ repository               : "SamLMB/samlmb.github.io"
 author:
   # Biographic information
   avatar           : "profile-shot.png"
-  name             : "Samuel Mathews"
+  name             : "Samuel Mathews, PhD"
   pronouns         : #NA
-  bio              : "Ph.D. in Engineering | Data Science | Modeling | High Performance Computing | Finance and Engineering Problems"
+  bio              : "PhD in Engineering | Data Science | Material Modeling | High Performance Computing | Finance and Engineering Problems"
   location         : "Montréal"
   employer         : "McGill University"
   uri              : # this website
