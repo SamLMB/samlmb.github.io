@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-My resume can be downloaded [here](http://smphd.com/files/cv_SCI.pdf).
+My resume can be downloaded [here](http://smphd.com/files/MathewsSamuelResume.pdf).
 
 # Experience
 
