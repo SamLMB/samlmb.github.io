@@ -24,9 +24,9 @@ repository               : "SamLMB/samlmb.github.io"
 author:
   # Biographic information
   avatar           : "profile-shot.png"
-  name             : "Samuel Mathews, PhD"
+  name             : "Samuel Mathews, Ph.D."
   pronouns         : #NA
-  bio              : "PhD in Engineering | Data Science | Material Modeling | High Performance Computing | Finance and Engineering Problems"
+  bio              : "Ph.D. in Engineering | Data Science | Material Modeling | High Performance Computing"
   location         : "Montréal"
   employer         : "McGill University"
   uri              : # this website
@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-0657-8623"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Samuel-Mathews-5"
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development

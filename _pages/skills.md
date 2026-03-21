@@ -7,19 +7,6 @@ redirect_from:
   - /sklls
 ---
 
-## On This Page
-
-1. **Languages**
-2. **Tools**
-3. **Operating Systems**
-4. **Data Science**
-5. **Artificial Intelligence**
-6. **Materials Modeling**
-7. **High Performance Computing**
-8. **Containerization**
-9. **Version Control**
-10. **Computer Networking**
-
 ## Languages
 English (**Native**), French (**Native**), Spanish (**Native**)
 
