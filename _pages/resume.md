@@ -11,72 +11,71 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 
 # Experience
 
-## Graduate Researcher -- January 2021 to Present
+## Graduate Researcher -- May 2018 to Present
 
 ### *McGill University, Montréal, Canada*
 
-- **Characterizing** temperature and pressure effects on the interfacial tension and energy of interfaces in sII gas hydrates.
-- **Using** machine learning to identify trends and patterns in large datasets, classify structures, recognize clustering.
-- **Modeling** structures and local organizations present near and far from gas hydrate interfaces.
-- **Developing** processing pipelines using numpy, pandas, numexpr, multiprocessing, scikit-learn on HPC clusters.
-- **Implementing** computational, analytical, and theoretical modeling of crystalline properties and interfacial processes and phenomena of gas hydrates using high performance computing clusters.
-- **Maintaining** a Python module containining useful tools and features for the Materials Modeling Research Group installable privately via the pip package manager.
+- **Characterize** temperature and pressure effects on the interfacial tension and energy of interfaces in sII gas hydrates.
+- **Utilize** machine learning to identify trends and patterns in large datasets, classify structures, and recognize clustering.
+- **Model** structures and local organizations present near and far from gas hydrate interfaces.
+- **Develop** processing pipelines using NumPy, pandas, NumExpr, multiprocessing, and scikit-learn on HPC clusters.
+- **Implement** computational, analytical, and theoretical modeling of crystalline properties and interfacial processes and phenomena of gas hydrates using high performance computing clusters.
+- **Maintain** a Python module containing useful tools and features for the Materials Modeling Research Group installable privately via the pip package manager.
 
 ## Scientific Systems Administrator -- January 2021 to Present
 
 ### *McGill University, Montréal, Canada*
 
-- **Managing** compute infrastructure of the Materials Modeling Research Group: login/compute nodes, auxiliary systems.
-- **Installing**, **configuring**, and **maintaining**:
+- **Manage** compute infrastructure of the Materials Modeling Research Group: login/compute nodes, auxiliary systems.
+- **Install**, **configure**, and **maintain**:
   - Debian login and compute nodes, including all memory, CPU, GPU, power supply, and storage operation, and part replacement as required.
   - Slurm Workload Manager for job scheduling, resource management, and node failure tolerance.
   - CERN Virtual Machine File system on all nodes for software and data distribution and management, including configuring alien cache and proxy servers where appropriate.
   - MATLAB, COMSOL, COMSOL License Manager implementations, custom software installations for benchmarking.
-  - LDAP user authentication for centralized services across all cluster related device and consistent user and group permissions from hot data to cold backup.
+  - LDAP user authentication for centralized services across all cluster related devices and consistent user and group permissions from hot data to cold backup.
   - DHCP and DNS servers to automatically assign and maintain consistent lists of nodes, IP addresses, internal and external hosts, and sites.
-  - Network hardware on server rack and on desk for seamless integration, node communication, and data management and transfer.
+  - Network hardware on server rack and on desk for integration, node communication, and data management and transfer.
   - 3-2-1 backup policy for all research data on a pre-defined schedule.
-  - Gitea Docker implementation offsite and remotely accessed for repository version control for research related projects.
-- **Integrating** and **communicating** with university IT staff and institutional policies regarding hardware, external access, and internal networking address assignment and service management.
-- **Making** recommendations to research supervisor on hardware and software upgrades taking into account cost, procurement policies, and installation and configuration time.
-- **Providing** technical support for all researchers and collaborators using the computational system, including best practices and access suggestions.
-- **Troubleshooting** all failed jobs, hardware issues, performance bottlenecks, and software conflicts at all times for all users cluster-wide.
-- **Onboarding** and **training** lab members in data policies, cluster usage, and interactions with localand Digital Research Alliance of Canada clusters.
-- **Staying** current with emerging trends in high performance computing, AI/ML workflows, and scientific computing.
+  - Gitea Docker implementation offsite and remotely accessed for repository version control.
+- **Integrate** and **communicate** with university IT staff and institutional policies regarding hardware, external access, and internal networking address assignment and service management.
+- **Make** recommendations to research supervisor on hardware and software upgrades taking into account cost, procurement policies, and installation and configuration time.
+- **Provide** technical support for all researchers and collaborators using the computational system.
+- **Troubleshoot** all failed jobs, hardware issues, performance bottlenecks, and software conflicts at all times for all users cluster-wide.
+- **Train** lab members in data policies, cluster usage, and interactions with local and Digital Research Alliance of Canada clusters.
 
 ## Lab Manager -- January 2021 to Present
 
 ### *McGill University, Montréal, Canada*
 
-- **Managing** all lab software licenses and cloud computing credit grants on Digital Research Alliance of Canada resources.
-- **Overseeing** and **coordinating** all hardware (desktops, components) and software procurement processes, including adherence to institutional rules and regulations.
-- **Maintaining** records for funding agencies and institutional compliance.
-- **Assisting** principal investigators with grant proposals by preparing computational time records, financial budgets, specific and detailed core-year justifications, and collecting and combining project information from lab members.
-- **Preparing** expense reports for seminars and lab activities, including receiving and processing invoices to facilitate payment of vendors in a timely manner.
-- **Scheduling** all weekly meetings between principal investigator and researchers.
-- **Scheduling** all weekly group seminars, producing attendance lists, and noting all required informations for funding agencies.
+- **Manage** all lab software licenses and cloud computing credit grants on Digital Research Alliance of Canada resources.
+- **Oversee** and **coordinate** all hardware (desktops, components) and software procurement processes, including adherence to institutional rules and regulations.
+- **Maintain** records for funding agencies and institutional compliance.
+- **Assist** principal investigators with grant proposals by preparing computational time records, financial budgets, specific and detailed core-year justifications, and collecting and combining project information from lab members.
+- **Prepare** expense reports for seminars and lab activities, including receiving and processing invoices to facilitate payment of vendors in a timely manner.
+- **Schedule** all weekly meetings between principal investigator and researchers.
+- **Schedule** all weekly group seminars, producing attendance lists, and noting all required informations for funding agencies.
 
-## Graduate Teaching Assistant -- September 2018 to August 2025
+## Graduate Teaching Assistant -- September 2018 to April 2026
 
 ### *McGill University, Montréal, Canada*
 
-- Graded assignments and exams, led tutorial sessions, supervised lab sessions, invigilated exams for courses in the Chemical Engineering Department at the undergraduate and graduate level.
+- Grade assignments and exams, lead tutorial sessions, supervise lab sessions, and invigilate exams for courses in the Chemical Engineering Department at the undergraduate and graduate level.
 - Undergraduate: Fluid Mechanics, Heat and Mass Transfer, Principles of Sustainable Energy Conversion, Process Modelling
-- Graduate: Computational Methods
+- Graduate: Computational Methods, Heat and Mass Transfer
 
 # Education
 
-## Doctor of Philosophy (PhD), Chemical Engineering -- January 2021 to April 2026
+## Doctor of Philosophy (Ph.D.), Chemical Engineering -- January 2021 to April 2026
 
 ### *McGill University, Montréal, Canada*
 
-- **Thesis:** Computational Modeling of Interfacial Properties and Processes in sII Gas Hydrates
-- Employing high performance molecular dynamics for interfacial systems in gas hydrate engineering applications.
+- **Thesis:** Multiscale Characterization of Gas Hydrates: Interfacial and Structural Aspects
+- Employing high performance molecular dynamics for interfacial systems in gas hydrate engineering applications, and density functional theory for solid crystalline gas hydrate systems.
 - Doctoral Research Scholarship: Fonds de recherche du Québec – Nature et technologies
 - McGill Engineering Doctoral Award
 - Relevant Coursework: Foundations of Fluid Mechanics, Process Dynamics and Control
 
-## Master of Engineering (MEng), Chemical Engineering -- May 2018 to April 2020
+## Master of Engineering (M.Eng.), Chemical Engineering -- May 2018 to April 2020
 
 ### *McGill University, Montréal, Canada*
 
@@ -85,7 +84,7 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 - McGill Engineering Undergraduate Student Master's Award
 - Relevant Coursework: Graduate Thermodynamics, Graduate Computational Methods, Quantum Materials
 
-## Bachelor of Engineering (BEng), Chemical Engineering -- September 2014 to April 2018
+## Bachelor of Engineering (B.Eng.), Chemical Engineering -- September 2014 to April 2018
 
 ### *McGill University, Montréal, Canada*
 
@@ -106,9 +105,9 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 - Introduction to GPU Programming -- April 2022
   - Virtual via SciNet HPC Consortium
 - Advanced Linux Command Line -- February 2022
-  - Virtual via SciNet HPC Consrtium
+  - Virtual via SciNet HPC Consortium
 - Advanced materials for energy storage and conversion summer school -- July 05 to July 09, 2021
-  - Virtual via Université de Bordeuax
+  - Virtual via Université de Bordeaux
   - Prize: Quebec Centre for Advanced Materials Participation Grant
 - Applied Data Science with Python Specialization -- Fall 2020
   - University of Michigan via Coursera
@@ -123,7 +122,7 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 English (**Native**), French (**Native**), Spanish (**Native**)
 
 ## Tools
-MATLAB, Python, Bash, SQL, Excel, Powerpoint, LaTeX.
+MATLAB, Python, Bash, SQL, Excel, PowerPoint, LaTeX.
 
 ## Operating Systems
 NixOS, Nix and Home Manager, Debian, Ubuntu, Microsoft Windows, MacOS.
@@ -131,7 +130,7 @@ NixOS, Nix and Home Manager, Debian, Ubuntu, Microsoft Windows, MacOS.
 ## Data Science
 NumPy, NumExpr, Multiprocessing Package, Pandas, Scikit-learn, Matplotlib, SciPy, Refactoring for Parallel Execution, Statistical Analysis, Data Cleaning.
 
-## Artifical Intelligence
+## Artificial Intelligence
 Classifiers, Regression, Support Vector Machine, Text Mining, Neural Network Programming.
 
 ## Materials Modeling
@@ -147,9 +146,11 @@ Docker, Docker Compose, Docker Compose Networking.
 Git (branching, merging, conflict resolution), Self-Hosted Gitea.
 
 ## Computer Networking
-Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS Server.
+Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS Server, Custom Domains, Mail Routing.
 
 # Awards & Achievements
+
+**Training Mobility Grant/Award - Quebec Center for Advanced Materials (QCAM):** October 2025
 
 **Doctoral Research Scholarship - Fonds de recherche du Québec – Nature et technologies:** June 2022 to December 2025
 
@@ -181,7 +182,8 @@ Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS S
 
 # Publications
 
-- Guerra, A.; Wang, Z.; **Mathews, S.**; Rey, A. D.; France, K. D. Periodic Feature Characterization in Nanostructured Surfaces and Emulsions. arXiv May 7, 2025. [10.48550/arXiv.2505.04057](https://doi.org/10.48550/arXiv.2505.04057).
+- **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates under Pressure: Guest Effects and Properties. Journal of Chemical Theory and Computation 2026. [10.1021/acs.jctc.5c01868](https://doi.org/10.1021/acs.jctc.5c01868).
+- Guerra, A.; Wang, Z.; **Mathews, S.**; Rey, A. D.; France, K. D. Periodic Feature Characterization in Nanostructured Surfaces and Emulsions. Langmuir 2025, 41, 37, 25230–25241. [10.1021/acs.langmuir.5c02320](https://doi.org/10.1021/acs.langmuir.5c02320).
 - **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Geometric Characterizations of Non-Uniform Structure I Methane Hydrate Behaviors Under Pressure. Crystals 2025, 15 (6), 518. [10.3390/cryst15060518](https://doi.org/10.3390/cryst15060518).
 - **Mathews, S.**; Servio, P.; Rey, A. Multiscale Interfacial Structure and Organization of sII Gas Hydrate Interfaces Using Molecular Dynamics. Nanomaterials 2025, 15 (6), 464. [10.3390/nano15060464](https://doi.org/10.3390/nano15060464).
 - **Mathews, S.**; Xu, Z.; Servio, P.; Rey, A. Modeling the Effect of Backbone Instabilities and Guest Occupancies on Interfacial and Structural Processes and Dynamics of sII Gas Hydrate Systems Using Molecular Dynamics. In Proceedings of the 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics; Scipedia: Vancouver, Canada, 2024. [10.23967/wccm.2024.097](https://doi.org/10.23967/wccm.2024.097)
@@ -262,22 +264,22 @@ Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS S
   - **Samuel Mathews**, André Guerra, Phillip Servio, Alejandro Rey
   - [Home Page](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/2023-mrs-fall-meeting)
 - Canadian Chemical Engineering Conference -- October 29 to November 01, 2023 -- Calgary, Canada
-  - Molecular Modeling and Characterisation of Interfacial Processes, Structures, and Dynamics of sII Gas Hydrate Systems for Engineering Applications
+  - Molecular Modeling and Characterization of Interfacial Processes, Structures, and Dynamics of sII Gas Hydrate Systems for Engineering Applications
   - **Samuel Mathews**, André Guerra, Phillip Servio, Alejandro Rey
-  - [Listing](https://www.xcdsystem.com/cic/program/33B3EXI/index.cfm?pgid=2 
+  - [Listing](https://www.xcdsystem.com/cic/program/33B3EXI/index.cfm?pgid=2)
 - 11th World Congress of Chemical Engineering -- June 04 to June 08, 2023 -- Buenos Aires, Argentina
   - Gas Hydrate Thermal and Interfacial Properties and Processes in Gas Capture and Storage for Energy Applications
   - **Samuel Mathews**, André Guerra, Alejandro Rey, Phillip Servio
-  - [Home Pageg](https://www.wcce11.org/)
+  - [Home Page](https://www.wcce11.org/)
   - **Prize: Graduate Research Enhancement and Travel Award**
 - Chemical Engineering Research Day -- March 17, 2023 -- Université de Montréal, Montréal Canada
   - Modeling of Interfacial Processes of Gas Hydrate Systems for Energy and Engineering Applications
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
-- American Phyisical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
+- American Physical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
   - Modeling of Interfacial Processes of Gas Hydrate Systems for Engineering Applications at Extreme Conditions
   - **Samuel Mathews**, André Guerra, Phillip Servio, Alejandro Rey
   - [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/PP02.3)
-- American Phyisical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
+- American Physical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
   - Equilibrium molecular dynamics of methane hydrate systems at pre-nucleation conditions to predict system transport properties
   - André Guerra, **Samuel Mathews**, Phillip Servio, Alejandro Rey, Milan Marić
   - [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/CCC01.10)

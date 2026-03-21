@@ -7,23 +7,13 @@ redirect_from:
   - /presentations
 ---
 
-## On This Page
-
-1. **2025**
-2. **2024**
-3. **2023**
-4. **2022**
-5. **2021**
-6. **2020**
-7. **2019**
-8. **2018**
-
 ## 2025
 
 - International Bio-Inspiration N.I.C.E. Winter Event -- December 09 to December 11, 2025 -- Nice, France
   - Gas hydrate interfacial structures and processes for nanostructure characterization and application to green energy storage
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
   - [Home Page](https://www.nice-conference.com/general-event/)
+  - **Prize: Training Mobility Grant/Award - Quebec Center for Advanced Materials (QCAM)**
 - CHEM 634: Seminar in Advanced Materials Invited Speaker -- November 07, 2025 -- McGill University, Montréal, Canada
   - Gas hydrate interfaces and bulk: geometric and atomistic perspectives
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
@@ -88,7 +78,7 @@ redirect_from:
 - Canadian Chemical Engineering Conference -- October 29 to November 01, 2023 -- Calgary, Canada
   - Molecular Modeling and Characterisation of Interfacial Processes, Structures, and Dynamics of sII Gas Hydrate Systems for Engineering Applications
   - **Samuel Mathews**, André Guerra, Phillip Servio, Alejandro Rey
-  - [Listing](https://www.xcdsystem.com/cic/program/33B3EXI/index.cfm?pgid=2 
+  - [Listing](https://www.xcdsystem.com/cic/program/33B3EXI/index.cfm?pgid=2)
 - 11th World Congress of Chemical Engineering -- June 04 to June 08, 2023 -- Buenos Aires, Argentina
   - Gas Hydrate Thermal and Interfacial Properties and Processes in Gas Capture and Storage for Energy Applications
   - **Samuel Mathews**, André Guerra, Alejandro Rey, Phillip Servio

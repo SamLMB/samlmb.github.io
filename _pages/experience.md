@@ -7,12 +7,10 @@ redirect_from:
   - /exp
 ---
 
-## On This Page
-
-1. [**Graduate Researcher -- January 2021 to Present**](#:~:text=Graduate%20Researcher%20%E2%80%93%20May%202018%20to%20Present)
-2. [**Scientific Systems Administrator -- January 2021 to Present**](#:~:text=pip%20package%20manager.-,Scientific%20Systems%20Administrator%20%E2%80%93%20January%202021%20to%20Present,-McGill%20University%2C%20Montr%C3%A9al)
-3. **Lab Manager -- January 2021 to Present**
-4. **Graduate Teaching Assistant -- September 2018 to August 2025**
+- [Graduate Researcher -- May 2018 to Present](#graduate-researcher----may-2018-to-present:~:text=to%20April%202026-,Graduate%20Researcher%20%E2%80%93%20May%202018%20to%20Present,-McGill%20University%2C%20Montr%C3%A9al)
+- [Scientific Systems Administrator -- January 2021 to Present](#graduate-researcher----may-2018-to-present:~:text=pip%20package%20manager.-,Scientific%20Systems%20Administrator%20%E2%80%93%20January%202021%20to%20Present,-McGill%20University%2C%20Montr%C3%A9al)
+- [Lab Manager -- January 2021 to Present](#graduate-researcher----may-2018-to-present:~:text=of%20Canada%20clusters.-,Lab%20Manager%20%E2%80%93%20January%202021%20to%20Present,-McGill%20University%2C%20Montr%C3%A9al)
+- [Graduate Teaching Assistant -- September 2018 to April 2026](#graduate-researcher----may-2018-to-present:~:text=for%20funding%20agencies.-,Graduate%20Teaching%20Assistant%20%E2%80%93%20September%202018%20to%20April%202026,-McGill%20University%2C%20Montr%C3%A9al)
 
 ## Graduate Researcher -- May 2018 to Present
 

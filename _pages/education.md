@@ -9,22 +9,22 @@ redirect_from:
 
 ## On This Page
 
-1. **PhD Engineering -- January 2021 to April 2026**
-2. **Master of Engineering -- May 2018 to April 2020**
-3. **Bachelor of Engineering -- September 2014 to April 2018**
-4. **Professional Development**
+- [**Doctor of Philosophy (Ph.D.), Chemical Engineering -- January 2021 to April 2026**](#:~:text=Professional%20Development-,Doctor%20of%20Philosophy%20(Ph.D.)%2C%20Chemical%20Engineering%20%E2%80%93%20January%202021%20to%20April%202026,-McGill%20University%2C%20Montr%C3%A9al)
+- [**Master of Engineering (M.Eng.), Chemical Engineering -- May 2018 to April 2020**](#:~:text=Dynamics%20and%20Control-,Master%20of%20Engineering%20(M.Eng.)%2C%20Chemical%20Engineering%20%E2%80%93%20May%202018%20to%20April%202020,-McGill%20University%2C%20Montr%C3%A9al)
+- [**Bachelor of Engineering (B.Eng.), Chemical Engineering -- September 2014 to April 2018**](#:~:text=Methods%2C%20Quantum%20Materials-,Bachelor%20of%20Engineering%20(B.Eng.)%2C%20Chemical%20Engineering%20%E2%80%93%20September%202014%20to%20April%202018,-McGill%20University%2C%20Montr%C3%A9al)
+- [**Professional Development**](#:~:text=University%2C%20Montr%C3%A9al%2C%20Canada-,Professional%20Development,-Mathematics%20of%20Multiscale)
 
-## PhD Engineering -- January 2021 to April 2026
+## Doctor of Philosophy (Ph.D.), Chemical Engineering -- January 2021 to April 2026
 
 ### *McGill University, Montréal, Canada*
 
-- **Thesis:** Computational Modeling of Interfacial Properties and Processes in sII Gas Hydrates
-- Employing high performance molecular dynamics for interfacial systems in gas hydrate engineering applications.
+- **Thesis:** Multiscale Characterization of Gas Hydrates: Interfacial and Structural Aspects
+- Employing high performance molecular dynamics for interfacial systems in gas hydrate engineering applications, and density functional theory for solid crystalline gas hydrate systems.
 - Doctoral Research Scholarship: Fonds de recherche du Québec – Nature et technologies
 - McGill Engineering Doctoral Award
 - Relevant Coursework: Foundations of Fluid Mechanics, Process Dynamics and Control
 
-## Master of Engineering -- May 2018 to April 2020
+## Master of Engineering (M.Eng.), Chemical Engineering -- May 2018 to April 2020
 
 ### *McGill University, Montréal, Canada*
 
@@ -33,7 +33,7 @@ redirect_from:
 - McGill Engineering Undergraduate Student Master's Award
 - Relevant Coursework: Graduate Thermodynamics, Graduate Computational Methods, Quantum Materials
 
-## Bachelor of Engineering -- September 2014 to April 2018
+## Bachelor of Engineering (B.Eng.), Chemical Engineering -- September 2014 to April 2018
 
 ### *McGill University, Montréal, Canada*
 
@@ -54,9 +54,9 @@ redirect_from:
 - Introduction to GPU Programming -- April 2022
   - Virtual via SciNet HPC Consortium
 - Advanced Linux Command Line -- February 2022
-  - Virtual via SciNet HPC Consrtium
+  - Virtual via SciNet HPC Consortium
 - Advanced materials for energy storage and conversion summer school -- July 05 to July 09, 2021
-  - Virtual via Université de Bordeuax
+  - Virtual via Université de Bordeaux
   - Prize: Quebec Centre for Advanced Materials Participation Grant
 - Applied Data Science with Python Specialization -- Fall 2020
   - University of Michigan via Coursera
