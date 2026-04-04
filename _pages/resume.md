@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
+My resume can be downloaded [here](http://smphd.com/files/resume_ECV.pdf).
 
 # Experience
 
@@ -15,18 +15,18 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 
 ### *McGill University, Montréal, Canada*
 
-- **Characterize** temperature and pressure effects on the interfacial tension and energy of interfaces in sII gas hydrates.
+- **Characterize** temperature and pressure effects on the interfacial tension and energy of interfaces in sII gas hydrates. Generated ~10 TB of simulation data across all projects; largest systems ~38,500 atoms; production runs spanning hundreds of nanoseconds and hundreds of core-years on DRAC clusters.
 - **Utilize** machine learning to identify trends and patterns in large datasets, classify structures, and recognize clustering.
 - **Model** structures and local organizations present near and far from gas hydrate interfaces.
 - **Develop** processing pipelines using NumPy, pandas, NumExpr, multiprocessing, and scikit-learn on HPC clusters.
 - **Implement** computational, analytical, and theoretical modeling of crystalline properties and interfacial processes and phenomena of gas hydrates using high performance computing clusters.
-- **Maintain** a Python module containing useful tools and features for the Materials Modeling Research Group installable privately via the pip package manager.
+- **Maintain** `lammpslib` (v1.0.6), a Python package for the Materials Modeling Research Group, installable via pip from GitHub. Contains 5 submodules (~20 Python files): bootstrapping (statistical resampling, hydrogen bond analysis), interfacial (simulation box generation), performance (thermodynamic analysis, convergence testing, transport properties, RMSD, radius of gyration, hydrogen bond lifetime/probability/visualization), scriptediting (LAMMPS input script templating and generation), and scrub_output (HPC log parsing).
 
 ## Scientific Systems Administrator -- January 2021 to Present
 
 ### *McGill University, Montréal, Canada*
 
-- **Manage** compute infrastructure of the Materials Modeling Research Group: login/compute nodes, auxiliary systems.
+- **Manage** compute infrastructure of the Materials Modeling Research Group (Olympus cluster): 1 login node, 2 compute nodes (AMD Ryzen Threadripper PRO 3995WX 64c/128t, 512 GB RAM, NVIDIA RTX 3090 Ti GPU).
 - **Install**, **configure**, and **maintain**:
   - Debian login and compute nodes, including all memory, CPU, GPU, power supply, and storage operation, and part replacement as required.
   - Slurm Workload Manager for job scheduling, resource management, and node failure tolerance.
@@ -35,7 +35,7 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
   - LDAP user authentication for centralized services across all cluster related devices and consistent user and group permissions from hot data to cold backup.
   - DHCP and DNS servers to automatically assign and maintain consistent lists of nodes, IP addresses, internal and external hosts, and sites.
   - Network hardware on server rack and on desk for integration, node communication, and data management and transfer.
-  - 3-2-1 backup policy for all research data on a pre-defined schedule.
+  - 3-2-1 backup policy for all research data on a pre-defined schedule, with cron-based health checks and email alerts for backup verification, node failure, and disk space monitoring.
   - Gitea Docker implementation offsite and remotely accessed for repository version control.
 - **Integrate** and **communicate** with university IT staff and institutional policies regarding hardware, external access, and internal networking address assignment and service management.
 - **Make** recommendations to research supervisor on hardware and software upgrades taking into account cost, procurement policies, and installation and configuration time.
@@ -47,10 +47,13 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 
 ### *McGill University, Montréal, Canada*
 
-- **Manage** all lab software licenses and cloud computing credit grants on Digital Research Alliance of Canada resources.
+- **Manage** all lab software licenses and cloud computing credit grants on Digital Research Alliance of Canada resources, including VASP license user management (onboarding/offboarding), MATLAB, and COMSOL.
+- **Guide** lab members on compiling VASP using EasyBuild recipes and custom CMake/Makefile configurations on DRAC and local clusters.
 - **Oversee** and **coordinate** all hardware (desktops, components) and software procurement processes, including adherence to institutional rules and regulations.
 - **Maintain** records for funding agencies and institutional compliance.
 - **Assist** principal investigators with grant proposals by preparing computational time records, financial budgets, specific and detailed core-year justifications, and collecting and combining project information from lab members.
+- **Principal author** of Digital Research Alliance of Canada (DRAC) resource allocation competition grants for both supervisors (2021--2028), securing cloud and cluster compute resources estimated at ~$500k CAD in total allocated value.
+- **Consulted** on NSERC Discovery Grant application, advising on digital twin framing and in-house hardware utilization strategy to justify procurement of dedicated compute infrastructure.
 - **Prepare** expense reports for seminars and lab activities, including receiving and processing invoices to facilitate payment of vendors in a timely manner.
 - **Schedule** all weekly meetings between principal investigator and researchers.
 - **Schedule** all weekly group seminars, producing attendance lists, and noting all required informations for funding agencies.
@@ -59,9 +62,17 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 
 ### *McGill University, Montréal, Canada*
 
-- Grade assignments and exams, lead tutorial sessions, supervise lab sessions, and invigilate exams for courses in the Chemical Engineering Department at the undergraduate and graduate level.
-- Undergraduate: Fluid Mechanics, Heat and Mass Transfer, Principles of Sustainable Energy Conversion, Process Modelling
-- Graduate: Computational Methods, Heat and Mass Transfer
+- Grade assignments and exams, lead tutorial sessions, deliver ad-hoc lectures, supervise lab sessions, hold office hours, and invigilate exams for courses in the Chemical Engineering Department at the undergraduate and graduate level.
+- Provide tutorial and office-hour support in both English and French upon student request.
+- 13 total TA assignments across 6 distinct courses, with some courses taught multiple semesters.
+- Undergraduate:
+  - CHEE 315: Fluid Mechanics (Fall 2018, Fall 2019, Fall 2021)
+  - CHEE 351: Heat and Mass Transfer (Winter 2019, Winter 2020)
+  - CHEE 400: Principles of Sustainable Energy Conversion (Fall 2022, Fall 2023, Fall 2024)
+  - CHEE 440: Process Modelling (Winter 2022, Winter 2023, Winter 2024) -- lectured and tutored on PDE derivation, Laplace transforms, series solutions, dimensional analysis
+- Graduate:
+  - CHEE 662: Computational Methods (Summer 2025) -- FEM, finite differences, spectral methods, bifurcation theory, continuation methods, all in MATLAB
+  - CHEE 611: Heat and Mass Transfer (Winter 2026)
 
 # Education
 
@@ -73,7 +84,7 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 - Employing high performance molecular dynamics for interfacial systems in gas hydrate engineering applications, and density functional theory for solid crystalline gas hydrate systems.
 - Doctoral Research Scholarship: Fonds de recherche du Québec – Nature et technologies
 - McGill Engineering Doctoral Award
-- Relevant Coursework: Foundations of Fluid Mechanics, Process Dynamics and Control
+- Relevant Coursework: Heat and Mass Transfer (CHEE 611), Foundations of Fluid Mechanics (CHEE 631, incl. CFD with COMSOL), Process Dynamics and Control (CHEE 672, incl. Simulink)
 
 ## Master of Engineering (M.Eng.), Chemical Engineering -- May 2018 to April 2020
 
@@ -82,11 +93,65 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 - **Thesis:** Thermal Properties of Gas Hydrates Using Density Functional Theory
 - Predicted thermal properties of sI gas hydrates from first principles using Density Functional Theory.
 - McGill Engineering Undergraduate Student Master's Award
-- Relevant Coursework: Graduate Thermodynamics, Graduate Computational Methods, Quantum Materials
+- Relevant Coursework: Graduate Thermodynamics (CHEE 621), Graduate Computational Methods (CHEE 662), Quantum Materials (MIME 658, Mining and Materials Engineering)
+
+## Ph.D. Program Milestones
+
+- CHEE 795: Ph.D. Thesis Proposal (completed)
+- CHEE 796: Ph.D. Proposal Defence (completed)
+- CHEE 797: Ph.D. Seminar (completed)
+- CHEE 687: Research Skills & Ethics (completed during M.Eng.)
+- CHEE 681: Laboratory Safety 1 (completed during M.Eng.)
+- CHEE 682: Laboratory Safety 2 (completed during M.Eng.)
+- Ph.D. Final Seminar (completed)
+- Ph.D. Thesis Defence (completed)
 
 ## Bachelor of Engineering (B.Eng.), Chemical Engineering -- September 2014 to April 2018
 
 ### *McGill University, Montréal, Canada*
+
+# Collaborations
+
+## Universidad Nacional Autónoma de México (UNAM)
+
+- Ongoing research collaboration with Prof. Edtson Emilio Herrera-Valencia, Facultad de Estudios Superiores Zaragoza.
+- Provided Spanish-language technical consultation on molecular dynamics during joint virtual conferences and supervisor presentations.
+- Multiple in-person visits by Prof. Herrera-Valencia to McGill.
+
+# Service & Leadership
+
+## Undergraduate Research Supervision -- 2019 to 2025
+
+### *McGill University, Montréal, Canada*
+
+- Supervised 6 undergraduate summer research students over multiple years, guiding them on DFT simulation setup, geometric analysis, and cluster usage.
+- Two of those students are now pursuing doctoral degrees.
+- Co-authored conference paper with undergraduate student.
+
+## Ph.D. Proposal Defence Committee -- Student Member
+
+### *McGill University, Montréal, Canada*
+
+- Served as student member on a labmate's CHEE 796 Ph.D. Proposal Defence examination committee.
+
+## Workshop Facilitator -- 2022
+
+### *McGill University, Montréal, Canada*
+
+- Designed and delivered hands-on workshop for MMRG group members on connecting to the Olympus cluster: SSH key pair generation, SSH configuration, and remote development with VS Code over SSH.
+
+## Local Contact, McGill-ETH Zurich Synergia Symposium -- August 2022
+
+### *McGill University, Montréal, Canada*
+
+- Served as local contact and logistics coordinator for a one-day international research symposium between McGill (Prof. Alejandro Rey) and ETH Zurich (Prof. Raffaele Mezzenga) on biological cholesteric phases under confinement.
+- Managed venue setup, reception dinner coordination, and on-site support for in-person and virtual participants.
+
+## Chemical Engineering Graduate Students Society (ChEGSS) Councilor -- 2018 to 2022
+
+### *McGill University, Montréal, Canada*
+
+- Served as general councilor for 3 academic years (2018/19, 2019/20, 2021/22), assisting with departmental events and graduate student activities.
 
 ## Professional Development
 
@@ -100,14 +165,19 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
   - Virtual
 - HPC Python -- June 2022
   - Virtual via Compute Ontario Summer School
-- Neural Net Programming -- April 2022
+- DAT112: Neural Network Programming -- April 2022
   - Virtual via SciNet HPC Consortium
-- Introduction to GPU Programming -- April 2022
+  - Six-week course: neural network concepts, theory, and techniques using Python 3.9 and Keras framework
+- HPC133: Introduction to GPU Programming -- April 2022
   - Virtual via SciNet HPC Consortium
-- Advanced Linux Command Line -- February 2022
+  - Overview of GPUs in supercomputing, GPU programming frameworks, accelerating scientific computing with GPUs (Python/C++)
+- SCMP271: Advanced Linux Command Line -- February 2022
   - Virtual via SciNet HPC Consortium
+  - Advanced Linux commands for productivity on HPC systems
 - Advanced materials for energy storage and conversion summer school -- July 05 to July 09, 2021
   - Virtual via Université de Bordeaux
+  - Topics: Thermal energy storage, PEM fuel cells and electrolysis, photocatalysis for solar fuels, photovoltaic systems, supercapacitors, battery technologies, hydrogen storage and metal hydrides, battery recycling, industrial energy systems
+  - Capstone group project with short presentation
   - Prize: Quebec Centre for Advanced Materials Participation Grant
 - Applied Data Science with Python Specialization -- Fall 2020
   - University of Michigan via Coursera
@@ -119,34 +189,60 @@ My resume can be downloaded [here](http://smphd.com/files/resume.pdf).
 # Technical Skills
 
 ## Languages
+
 English (**Native**), French (**Native**), Spanish (**Native**)
 
 ## Tools
-MATLAB, Python, Bash, SQL, Excel, PowerPoint, LaTeX.
+
+MATLAB, Simulink, Python, Bash, SQL, Excel, PowerPoint, LaTeX, COMSOL, LabVIEW.
 
 ## Operating Systems
-NixOS, Nix and Home Manager, Debian, Ubuntu, Microsoft Windows, MacOS.
+
+NixOS, Nix (nix-shell for reproducible dev environments), Home Manager, Debian, Ubuntu, Microsoft Windows, MacOS.
 
 ## Data Science
-NumPy, NumExpr, Multiprocessing Package, Pandas, Scikit-learn, Matplotlib, SciPy, Refactoring for Parallel Execution, Statistical Analysis, Data Cleaning.
+
+NumPy, NumExpr, Multiprocessing Package, Pandas, Scikit-learn, Matplotlib, SciPy, Refactoring for Parallel Execution, Statistical Analysis, Data Cleaning, Error Propagation Analysis.
+
+## Numerical & Computational Methods
+
+Galerkin Finite Elements, Finite Differences, Collocation, Spectral Methods, Method of Weighted Residuals, Gaussian Quadrature, Newton-Raphson Iteration, Implicit/Explicit Time Integration, Predictor-Corrector Methods, Bifurcation Theory (Turning Points, Hopf Bifurcations), Arc-Length Continuation (Keller's Method), Mesh Refinement (Adaptive/Moving), Petrov-Galerkin Upwinding, Isoparametric Mapping, Lagrange Interpolation, PID Control (LabVIEW).
+
+## Analytical Methods
+
+PDE Derivation from Conservation Laws, Laplace Transforms, Series Solutions, Dimensional Analysis and Scaling, Classification of PDEs by Characteristics.
 
 ## Artificial Intelligence
+
 Classifiers, Regression, Support Vector Machine, Text Mining, Neural Network Programming.
 
 ## Materials Modeling
-Large Atomic/Molecular Modeling Software Package, Vienna Ab Initio Simulation Package, Phonopy, MDAnalysis.
+
+Large Atomic/Molecular Modeling Software Package (LAMMPS), Vienna Ab Initio Simulation Package (VASP), Phonopy, MDAnalysis, OVITO, VMD, Moltemplate, Packmol, LCAO and Plane-Wave Basis Set Methods, Elastic Constant and Mechanical Property Calculation (Young's Modulus, Bulk Modulus, Shear Modulus via DFT), Phonon-Based Thermal Property Calculation (Heat Capacity, Thermal Expansion, Gruneisen Parameter), Kirkwood-Buff / Pressure Tensor Method (Interfacial Tension), Radial Distribution Functions, Density Profiles, Order Parameter Calculation, Equilibrium MD (NPT/NVT), Exploratory Non-Equilibrium MD (Electric Field, Electrocrystallization), Jupyter Notebooks, MATLAB Live Scripts (.mlx).
 
 ## High Performance Computing
-Installation/Maintenance of Slurm Scheduler, CERN Virtual Machine File System, Ethernet and InfiniBand Network Configuration.
+
+Installation/Maintenance of Slurm Scheduler, CERN Virtual Machine File System, Ethernet and InfiniBand Network Configuration, CPU/GPU Performance Tuning, Cloud and Edge Compute, Parallel Workflow Optimization, Source Compilation and MPI Library Benchmarking (OpenMPI, Intel MPI), GPU Support Testing, EasyBuild, CMake/Makefile Configuration.
 
 ## Containerization
-Docker, Docker Compose, Docker Compose Networking.
+
+Docker, Docker Compose, Docker Compose Networking, Self-Hosted Home Server (containerized services, private DNS routing, custom domain and email).
 
 ## Version Control
+
 Git (branching, merging, conflict resolution), Self-Hosted Gitea.
 
 ## Computer Networking
-Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS Server, Custom Domains, Mail Routing.
+
+Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS Server, Custom Domains, Mail Routing, LDAP User Authentication.
+
+## Force Fields & Interatomic Potentials
+
+TIP4P/Ice, OPLS-AA, EPM2, TraPPE, Zhang CO2 Potential.
+
+## Technical Writing
+
+Technical Literature Review and Synthesis, Grant Writing (Digital Research Alliance of Canada Resource Allocation Competitions -- principal author; NSERC Discovery Grant -- consultant/contributor), Review Paper Authorship.
 
 # Awards & Achievements
 
@@ -182,11 +278,11 @@ Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS S
 
 # Publications
 
-- **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates under Pressure: Guest Effects and Properties. Journal of Chemical Theory and Computation 2026. [10.1021/acs.jctc.5c01868](https://doi.org/10.1021/acs.jctc.5c01868).
+- **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates under Pressure: Guest Effects and Properties. Journal of Chemical Theory and Computation 2026, 22, 6, 3114–3124. [10.1021/acs.jctc.5c01868](https://doi.org/10.1021/acs.jctc.5c01868).
 - Guerra, A.; Wang, Z.; **Mathews, S.**; Rey, A. D.; France, K. D. Periodic Feature Characterization in Nanostructured Surfaces and Emulsions. Langmuir 2025, 41, 37, 25230–25241. [10.1021/acs.langmuir.5c02320](https://doi.org/10.1021/acs.langmuir.5c02320).
 - **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Geometric Characterizations of Non-Uniform Structure I Methane Hydrate Behaviors Under Pressure. Crystals 2025, 15 (6), 518. [10.3390/cryst15060518](https://doi.org/10.3390/cryst15060518).
 - **Mathews, S.**; Servio, P.; Rey, A. Multiscale Interfacial Structure and Organization of sII Gas Hydrate Interfaces Using Molecular Dynamics. Nanomaterials 2025, 15 (6), 464. [10.3390/nano15060464](https://doi.org/10.3390/nano15060464).
-- **Mathews, S.**; Xu, Z.; Servio, P.; Rey, A. Modeling the Effect of Backbone Instabilities and Guest Occupancies on Interfacial and Structural Processes and Dynamics of sII Gas Hydrate Systems Using Molecular Dynamics. In Proceedings of the 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics; Scipedia: Vancouver, Canada, 2024. [10.23967/wccm.2024.097](https://doi.org/10.23967/wccm.2024.097)
+- **Mathews, S.**; Xu, Z.; Servio, P.; Rey, A. Geometric Modeling of Gas Hydrate Structural Properties and Guest-Host Interactions. In Proceedings of the 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics; Scipedia: Vancouver, Canada, 2024. [10.23967/wccm.2024.097](https://doi.org/10.23967/wccm.2024.097)
 - **Mathews, S.**; Guerra, A.; Servio, P.; Rey, A. Molecular Dynamics Characterization of the Interfacial Structure and Forces of the Methane-Ethane sII Gas Hydrate Interface. Colloid and Interface Science Communications 2024, 62, 100800. [10.1016/j.colcom.2024.100800](https://doi.org/10.1016/j.colcom.2024.100800).
 - Guerra, A.; **Mathews, S.**; Su, J. T.; Marić, M.; Servio, P.; Rey, A. D. Molecular Dynamics Predictions of Transport Properties for Carbon Dioxide Hydrates under Pre-Nucleation Conditions Using TIP4P/Ice Water and EPM2, TraPPE, and Zhang Carbon Dioxide Potentials. Journal of Molecular Liquids 2023, 379, 121674. [10.1016/j.molliq.2023.121674](https://doi.org/10.1016/j.molliq.2023.121674).
 - Guerra, A.; **Mathews, S.**; Marić, M.; Servio, P.; Rey, A. D. All-Atom Molecular Dynamics of Pure Water–Methane Gas Hydrate Systems under Pre-Nucleation Conditions: A Direct Comparison between Experiments and Simulations of Transport Properties for the Tip4p/Ice Water Model. Molecules 2022, 27 (15), 5019. [10.3390/molecules27155019](https://doi.org/10.3390/molecules27155019).
@@ -196,15 +292,19 @@ Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS S
 
 # Presentations & Conferences
 
+**Note:** Presentations delivered in English unless otherwise noted. One full talk delivered in French (QCAM 2024). Fielded audience questions in Spanish during collaborator presentations with UNAM (Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México).
+
 ## 2025
 
 - International Bio-Inspiration N.I.C.E. Winter Event -- December 09 to December 11, 2025 -- Nice, France
   - Gas hydrate interfacial structures and processes for nanostructure characterization and application to green energy storage
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
   - [Home Page](https://www.nice-conference.com/general-event/)
+  - **Prize: Training Mobility Grant/Award - Quebec Center for Advanced Materials (QCAM)**
 - CHEM 634: Seminar in Advanced Materials Invited Speaker -- November 07, 2025 -- McGill University, Montréal, Canada
   - Gas hydrate interfaces and bulk: geometric and atomistic perspectives
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
+  - 45-minute invited lecture covering both experimental (Servio) and computational (Rey) lab research; invited by course instructor Dr. Linda Reven (Chemistry Department)
 - Canadian Chemical Engineering Conference -- October 05 to October 07, 2025 -- Montréal, Canada
   - Multiscale Characterisation of sII Gas Hydrate Interfacial Structure and Organisation
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
@@ -230,6 +330,7 @@ Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS S
 - CHEM 634: Seminar in Advanced Materials Invited Speaker -- September 25, 2024 -- McGill University, Montréal Canada
   - Multiscale Modeling of Gas Hydrates and their Interfaces
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
+  - 45-minute invited lecture covering both experimental and computational lab research; invited by Dr. Linda Reven (Chemistry Department)
 - 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics -- July 21 to July 26, 2024 -- Vancouver, Canada
   - Modeling the Effect of Backbone Instabilities and Guest Occupancies on Interfacial and Structural Processes and Dynamics of sII Gas Hydrate Systems Using Molecular Dynamics
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
@@ -242,9 +343,10 @@ Nginx Proxy Manager, HTTPS/SSL Provisioning, Traffic Routing, DHCP Server, DNS S
   - [Home Page](https://web.archive.org/web/20250207184246/https://www.wccm2024.org/)
   - **Prize: Canadian Association for Computational Science and Engineering (CACSE) Travel Award**
   - **Prize: Graduate Research Enhancement and Travel Award**
-- Mathematics of Multiscale and Multiphysics Phenomena in Materials Science -- June 16 to June 21, 2024 -- Banff International Research Station for Mathematical Innovation and Discovery, Banff, Canada
+- Mathematics of Multiscale and Multiphysics Phenomena in Materials Science (24w5159) -- June 16 to June 21, 2024 -- Banff International Research Station for Mathematical Innovation and Discovery, Banff, Canada
   - Molecular Modeling of sII Gas Hydrate Interfacial Structures and Processes
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
+  - **Invited poster**
   - [Home Page](https://www.birs.ca/workshops/2024/24w5159/report24w5159.pdf)
 - Centre for Research in Molecular Modeling Annual Symposium -- May 27, 2024 -- Concordia University, Montréal, Canada
   - Interfacial Properties and Processes of Natural Gas Hydrates for Energy Applications

@@ -7,6 +7,8 @@ redirect_from:
   - /presentations
 ---
 
+**Note:** Presentations delivered in English unless otherwise noted. One full talk delivered in French (QCAM 2024). Fielded audience questions in Spanish during collaborator presentations with UNAM (Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México).
+
 ## 2025
 
 - International Bio-Inspiration N.I.C.E. Winter Event -- December 09 to December 11, 2025 -- Nice, France
@@ -17,6 +19,7 @@ redirect_from:
 - CHEM 634: Seminar in Advanced Materials Invited Speaker -- November 07, 2025 -- McGill University, Montréal, Canada
   - Gas hydrate interfaces and bulk: geometric and atomistic perspectives
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
+  - 45-minute invited lecture covering both experimental (Servio) and computational (Rey) lab research; invited by course instructor Dr. Linda Reven (Chemistry Department)
 - Canadian Chemical Engineering Conference -- October 05 to October 07, 2025 -- Montréal, Canada
   - Multiscale Characterisation of sII Gas Hydrate Interfacial Structure and Organisation
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
@@ -42,6 +45,7 @@ redirect_from:
 - CHEM 634: Seminar in Advanced Materials Invited Speaker -- September 25, 2024 -- McGill University, Montréal Canada
   - Multiscale Modeling of Gas Hydrates and their Interfaces
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
+  - 45-minute invited lecture covering both experimental and computational lab research; invited by Dr. Linda Reven (Chemistry Department)
 - 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics -- July 21 to July 26, 2024 -- Vancouver, Canada
   - Modeling the Effect of Backbone Instabilities and Guest Occupancies on Interfacial and Structural Processes and Dynamics of sII Gas Hydrate Systems Using Molecular Dynamics
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
@@ -54,9 +58,10 @@ redirect_from:
   - [Home Page](https://web.archive.org/web/20250207184246/https://www.wccm2024.org/)
   - **Prize: Canadian Association for Computational Science and Engineering (CACSE) Travel Award**
   - **Prize: Graduate Research Enhancement and Travel Award**
-- Mathematics of Multiscale and Multiphysics Phenomena in Materials Science -- June 16 to June 21, 2024 -- Banff International Research Station for Mathematical Innovation and Discovery, Banff, Canada
+- Mathematics of Multiscale and Multiphysics Phenomena in Materials Science (24w5159) -- June 16 to June 21, 2024 -- Banff International Research Station for Mathematical Innovation and Discovery, Banff, Canada
   - Molecular Modeling of sII Gas Hydrate Interfacial Structures and Processes
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
+  - **Invited poster**
   - [Home Page](https://www.birs.ca/workshops/2024/24w5159/report24w5159.pdf)
 - Centre for Research in Molecular Modeling Annual Symposium -- May 27, 2024 -- Concordia University, Montréal, Canada
   - Interfacial Properties and Processes of Natural Gas Hydrates for Energy Applications
@@ -76,22 +81,22 @@ redirect_from:
   - **Samuel Mathews**, André Guerra, Phillip Servio, Alejandro Rey
   - [Home Page](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/2023-mrs-fall-meeting)
 - Canadian Chemical Engineering Conference -- October 29 to November 01, 2023 -- Calgary, Canada
-  - Molecular Modeling and Characterisation of Interfacial Processes, Structures, and Dynamics of sII Gas Hydrate Systems for Engineering Applications
+  - Molecular Modeling and Characterization of Interfacial Processes, Structures, and Dynamics of sII Gas Hydrate Systems for Engineering Applications
   - **Samuel Mathews**, André Guerra, Phillip Servio, Alejandro Rey
   - [Listing](https://www.xcdsystem.com/cic/program/33B3EXI/index.cfm?pgid=2)
 - 11th World Congress of Chemical Engineering -- June 04 to June 08, 2023 -- Buenos Aires, Argentina
   - Gas Hydrate Thermal and Interfacial Properties and Processes in Gas Capture and Storage for Energy Applications
   - **Samuel Mathews**, André Guerra, Alejandro Rey, Phillip Servio
-  - [Home Pageg](https://www.wcce11.org/)
+  - [Home Page](https://www.wcce11.org/)
   - **Prize: Graduate Research Enhancement and Travel Award**
 - Chemical Engineering Research Day -- March 17, 2023 -- Université de Montréal, Montréal Canada
   - Modeling of Interfacial Processes of Gas Hydrate Systems for Energy and Engineering Applications
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
-- American Phyisical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
+- American Physical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
   - Modeling of Interfacial Processes of Gas Hydrate Systems for Engineering Applications at Extreme Conditions
   - **Samuel Mathews**, André Guerra, Phillip Servio, Alejandro Rey
   - [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/PP02.3)
-- American Phyisical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
+- American Physical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
   - Equilibrium molecular dynamics of methane hydrate systems at pre-nucleation conditions to predict system transport properties
   - André Guerra, **Samuel Mathews**, Phillip Servio, Alejandro Rey, Milan Marić
   - [Abstract](https://meetings.aps.org/Meeting/MAR23/Session/CCC01.10)
