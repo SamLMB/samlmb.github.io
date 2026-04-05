@@ -7,13 +7,6 @@ redirect_from:
   - /edu
 ---
 
-## On This Page
-
-- [**Doctor of Philosophy (Ph.D.), Chemical Engineering -- January 2021 to April 2026**](#:~:text=Professional%20Development-,Doctor%20of%20Philosophy%20(Ph.D.)%2C%20Chemical%20Engineering%20%E2%80%93%20January%202021%20to%20April%202026,-McGill%20University%2C%20Montr%C3%A9al)
-- [**Master of Engineering (M.Eng.), Chemical Engineering -- May 2018 to April 2020**](#:~:text=Dynamics%20and%20Control-,Master%20of%20Engineering%20(M.Eng.)%2C%20Chemical%20Engineering%20%E2%80%93%20May%202018%20to%20April%202020,-McGill%20University%2C%20Montr%C3%A9al)
-- [**Bachelor of Engineering (B.Eng.), Chemical Engineering -- September 2014 to April 2018**](#:~:text=Methods%2C%20Quantum%20Materials-,Bachelor%20of%20Engineering%20(B.Eng.)%2C%20Chemical%20Engineering%20%E2%80%93%20September%202014%20to%20April%202018,-McGill%20University%2C%20Montr%C3%A9al)
-- [**Professional Development**](#:~:text=University%2C%20Montr%C3%A9al%2C%20Canada-,Professional%20Development,-Mathematics%20of%20Multiscale)
-
 ## Doctor of Philosophy (Ph.D.), Chemical Engineering -- January 2021 to April 2026
 
 ### *McGill University, Montréal, Canada*
@@ -22,7 +15,7 @@ redirect_from:
 - Employing high performance molecular dynamics for interfacial systems in gas hydrate engineering applications, and density functional theory for solid crystalline gas hydrate systems.
 - Doctoral Research Scholarship: Fonds de recherche du Québec – Nature et technologies
 - McGill Engineering Doctoral Award
-- Relevant Coursework: Foundations of Fluid Mechanics, Process Dynamics and Control
+- Relevant Coursework: Heat and Mass Transfer (CHEE 611), Foundations of Fluid Mechanics (CHEE 631, incl. CFD with COMSOL), Process Dynamics and Control (CHEE 672, incl. Simulink)
 
 ## Master of Engineering (M.Eng.), Chemical Engineering -- May 2018 to April 2020
 
@@ -31,11 +24,24 @@ redirect_from:
 - **Thesis:** Thermal Properties of Gas Hydrates Using Density Functional Theory
 - Predicted thermal properties of sI gas hydrates from first principles using Density Functional Theory.
 - McGill Engineering Undergraduate Student Master's Award
-- Relevant Coursework: Graduate Thermodynamics, Graduate Computational Methods, Quantum Materials
+- Relevant Coursework: Graduate Thermodynamics (CHEE 621), Graduate Computational Methods (CHEE 662), Quantum Materials (MIME 658, Mining and Materials Engineering)
+
+## Ph.D. Program Milestones
+
+- CHEE 795: Ph.D. Thesis Proposal (completed)
+- CHEE 796: Ph.D. Proposal Defence (completed)
+- CHEE 797: Ph.D. Seminar (completed)
+- CHEE 687: Research Skills & Ethics (completed during M.Eng.)
+- CHEE 681: Laboratory Safety 1 (completed during M.Eng.)
+- CHEE 682: Laboratory Safety 2 (completed during M.Eng.)
+- Ph.D. Final Seminar (completed)
+- Ph.D. Thesis Defence (completed)
 
 ## Bachelor of Engineering (B.Eng.), Chemical Engineering -- September 2014 to April 2018
 
 ### *McGill University, Montréal, Canada*
+
+- Relevant Coursework: Computational Methods, Biofluids and Cardiovascular Mechanics (CHEE/MECH 563 -- Navier-Stokes, vascular solid mechanics, fluid-structure interaction), Plant Design Capstone (heat and mass balance focused)
 
 ## Professional Development
 
@@ -49,14 +55,19 @@ redirect_from:
   - Virtual
 - HPC Python -- June 2022
   - Virtual via Compute Ontario Summer School
-- Neural Net Programming -- April 2022
+- DAT112: Neural Network Programming -- April 2022
   - Virtual via SciNet HPC Consortium
-- Introduction to GPU Programming -- April 2022
+  - Six-week course: neural network concepts, theory, and techniques using Python 3.9 and Keras framework
+- HPC133: Introduction to GPU Programming -- April 2022
   - Virtual via SciNet HPC Consortium
-- Advanced Linux Command Line -- February 2022
+  - Overview of GPUs in supercomputing, GPU programming frameworks, accelerating scientific computing with GPUs (Python/C++)
+- SCMP271: Advanced Linux Command Line -- February 2022
   - Virtual via SciNet HPC Consortium
+  - Advanced Linux commands for productivity on HPC systems
 - Advanced materials for energy storage and conversion summer school -- July 05 to July 09, 2021
   - Virtual via Université de Bordeaux
+  - Topics: Thermal energy storage, PEM fuel cells and electrolysis, photocatalysis for solar fuels, photovoltaic systems, supercapacitors, battery technologies, hydrogen storage and metal hydrides, battery recycling, industrial energy systems
+  - Capstone group project with short presentation
   - Prize: Quebec Centre for Advanced Materials Participation Grant
 - Applied Data Science with Python Specialization -- Fall 2020
   - University of Michigan via Coursera
