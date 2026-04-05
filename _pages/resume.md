@@ -110,6 +110,8 @@ My resume can be downloaded [here](http://smphd.com/files/resume_ECV.pdf).
 
 ### *McGill University, Montréal, Canada*
 
+- Relevant Coursework: Computational Methods, Biofluids and Cardiovascular Mechanics (CHEE/MECH 563 -- Navier-Stokes, vascular solid mechanics, fluid-structure interaction), Plant Design Capstone (heat and mass balance focused)
+
 # Collaborations
 
 ## Universidad Nacional Autónoma de México (UNAM)
@@ -125,8 +127,7 @@ My resume can be downloaded [here](http://smphd.com/files/resume_ECV.pdf).
 ### *McGill University, Montréal, Canada*
 
 - Supervised 6 undergraduate summer research students over multiple years, guiding them on DFT simulation setup, geometric analysis, and cluster usage.
-- Two of those students are now pursuing doctoral degrees.
-- Co-authored conference paper with undergraduate student.
+- Co-authored conference paper with undergraduate student Zijun Xu (WCCM 2024).
 
 ## Ph.D. Proposal Defence Committee -- Student Member
 
@@ -206,7 +207,7 @@ NumPy, NumExpr, Multiprocessing Package, Pandas, Scikit-learn, Matplotlib, SciPy
 
 ## Numerical & Computational Methods
 
-Galerkin Finite Elements, Finite Differences, Collocation, Spectral Methods, Method of Weighted Residuals, Gaussian Quadrature, Newton-Raphson Iteration, Implicit/Explicit Time Integration, Predictor-Corrector Methods, Bifurcation Theory (Turning Points, Hopf Bifurcations), Arc-Length Continuation (Keller's Method), Mesh Refinement (Adaptive/Moving), Petrov-Galerkin Upwinding, Isoparametric Mapping, Lagrange Interpolation, PID Control (LabVIEW).
+Galerkin Finite Elements, Finite Differences, Collocation, Spectral Methods, Method of Weighted Residuals, Gaussian Quadrature, Monte Carlo Integration, Newton-Raphson Iteration, Implicit/Explicit Time Integration, Predictor-Corrector Methods, Bifurcation Theory (Turning Points, Hopf Bifurcations), Arc-Length Continuation (Keller's Method), Mesh Refinement (Adaptive/Moving), Petrov-Galerkin Upwinding, Isoparametric Mapping, Lagrange Interpolation, PID Control (LabVIEW).
 
 ## Analytical Methods
 
@@ -311,23 +312,23 @@ Technical Literature Review and Synthesis, Grant Writing (Digital Research Allia
   - [Abstract](https://www.xcdsystem.com/cic/program/0CzMEbA/index.cfm?pgid=3111&sid=30508&abid=117304)
   - **Prize: Graduate Research Enhancement and Travel Award**
 - Centre for Research in Molecular Modeling Annual Symposium -- May 06, 2025 -- Concordia University, Montréal, Canada
-  - Multiscale Characterisation Gas Hydrates Under Pressure
+  - Multiscale Characterisation of Gas Hydrates Under Pressure
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
 
 ## 2024
 
 - Materials Research Society Fall Meeting & Exhibit -- December 01 to December 06, 2024 -- Boston, United States
-  - Characterizing, Classifying and Manipulating Gas Hydrate Crystaline Interfaces and Associated Liquid-Like Layers to Understand Their Nucleation and Growth
+  - Characterizing, Classifying and Manipulating Gas Hydrate Crystalline Interfaces and Associated Liquid-Like Layers to Understand Their Nucleation and Growth
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
   - [Home Page](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/2024-fall-meeting)
-- Chemical Engineering Research Day -- November 28, 2024 -- McGill University, Montréal Canada
+- Chemical Engineering Research Day -- November 28, 2024 -- McGill University, Montréal, Canada
   - Characterizing, Classifying, and Manipulating Gas Hydrate Crystalline Interfaces and Associated Phases & Layers to Understand Nucleation and Growth
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
 - Canadian Chemical Engineering Conference -- October 06 to October 09, 2024 -- Toronto, Canada
   - Molecular Modeling and Characterisation of Processes and Dynamics of Gas Hydrates in the Presence of Applied Electric Fields and Backbone Instabilities
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
   - [Abstract](https://www.xcdsystem.com/cic/program/guRM5nD/index.cfm?pgid=3018&sid=28670&abid=108732)
-- CHEM 634: Seminar in Advanced Materials Invited Speaker -- September 25, 2024 -- McGill University, Montréal Canada
+- CHEM 634: Seminar in Advanced Materials Invited Speaker -- September 25, 2024 -- McGill University, Montréal, Canada
   - Multiscale Modeling of Gas Hydrates and their Interfaces
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
   - 45-minute invited lecture covering both experimental and computational lab research; invited by Dr. Linda Reven (Chemistry Department)
@@ -353,7 +354,7 @@ Technical Literature Review and Synthesis, Grant Writing (Digital Research Allia
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
   - [Home Page](https://www.concordia.ca/cuevents/artsci/molecular-modeling/2024/05/27/cermm-symposium-2024.html?c=/research/molecular-modeling/news-events/events)
   - **Prize: Presentation Excellence Award**
-- Quebec Centre for Advanced Materials Annual Symposium -- May 22 to May 23, 2024 -- Université de Laval, Quebec City, Canada
+- Quebec Centre for Advanced Materials Annual Symposium -- May 22 to May 23, 2024 -- Université Laval, Quebec City, Canada
   - Propriétés et Processus Interfaciaux des Hydrates de Gaz pour des Applications Énergétiques
   - **Samuel Mathews**, Phillip Servio, Alejandro Rey
   - [Home Page](https://cqmf-qcam.ca/meeting2024?lang=en)
@@ -374,7 +375,7 @@ Technical Literature Review and Synthesis, Grant Writing (Digital Research Allia
   - **Samuel Mathews**, André Guerra, Alejandro Rey, Phillip Servio
   - [Home Page](https://www.wcce11.org/)
   - **Prize: Graduate Research Enhancement and Travel Award**
-- Chemical Engineering Research Day -- March 17, 2023 -- Université de Montréal, Montréal Canada
+- Chemical Engineering Research Day -- March 17, 2023 -- Université de Montréal, Montréal, Canada
   - Modeling of Interfacial Processes of Gas Hydrate Systems for Energy and Engineering Applications
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
 - American Physical Society March Meeting -- March 05 to March 10, 2023 -- Las Vegas, United States
@@ -402,7 +403,7 @@ Technical Literature Review and Synthesis, Grant Writing (Digital Research Allia
   - André Guerra, **Samuel Mathews**, Milan Marić, Phillip Servio, Alejandro Rey
   - [Home Page](https://www.xcdsystem.com/cic/program/5iXyWiQ/index.cfm?pgid=2778&sid=25672&abid=94832)
 - McGill-ETH Zurich Synergia Symposium -- August 05, 2022 -- McGill University, Montréal, Canada
-  - Molecular Dynamics-based transport and interfacial properties with applications to rheology and crystallization  of water-based solutions
+  - Molecular Dynamics-based transport and interfacial properties with applications to rheology and crystallization of water-based solutions
   - **Samuel Mathews**, André Guerra
 
 ## 2021
@@ -432,7 +433,7 @@ Technical Literature Review and Synthesis, Grant Writing (Digital Research Allia
 
 ## 2019
 
-- Chemical Engineering Research Day -- November 19, 2019 -- McGill University, Montréal Canada
+- Chemical Engineering Research Day -- November 19, 2019 -- McGill University, Montréal, Canada
   - Thermal Properties of sI Hydrates Using Density Functional Theory
   - **Samuel Mathews**, Alejandro Rey, Phillip Servio
   - **Prize: Outstanding Presentation Award (Masters)**
