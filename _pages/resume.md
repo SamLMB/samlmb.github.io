@@ -11,7 +11,7 @@ My resume can be downloaded [here](http://smphd.com/files/resume_ECV.pdf).
 
 # Experience
 
-## Graduate Researcher -- May 2018 to Present
+## Doctoral Researcher -- January 2021 to Present
 
 ### *McGill University, Montréal, Canada*
 
