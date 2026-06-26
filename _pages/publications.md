@@ -7,6 +7,7 @@ redirect_from:
   - /pubs
 ---
 
+- Mohamed, M.; **Mathews, S.**; Rey, A.; Servio, P. Atomistic Investigations of Occupancy-Driven Structural Deformations in Binary H$_2$-THF Hydrates and Their Effect on Storage Capacity. Energies 2026, 19 (13), 3023. [10.3390/en19133023]([10.3390/en19133023](https://doi.org/10.3390/en19133023)).
 - **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates under Pressure: Guest Effects and Properties. Journal of Chemical Theory and Computation 2026, 22, 6, 3114–3124. [10.1021/acs.jctc.5c01868](https://doi.org/10.1021/acs.jctc.5c01868).
 - Guerra, A.; Wang, Z.; **Mathews, S.**; Rey, A. D.; France, K. D. Periodic Feature Characterization in Nanostructured Surfaces and Emulsions. Langmuir 2025, 41, 37, 25230–25241. [10.1021/acs.langmuir.5c02320](https://doi.org/10.1021/acs.langmuir.5c02320).
 - **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Geometric Characterizations of Non-Uniform Structure I Methane Hydrate Behaviors Under Pressure. Crystals 2025, 15 (6), 518. [10.3390/cryst15060518](https://doi.org/10.3390/cryst15060518).

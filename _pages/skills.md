@@ -21,7 +21,7 @@ NixOS, Nix (nix-shell for reproducible dev environments), Home Manager, Debian, 
 
 ## Data Science
 
-NumPy, NumExpr, Multiprocessing Package, Pandas, Scikit-learn, Matplotlib, SciPy, Refactoring for Parallel Execution, Statistical Analysis, Data Cleaning, Error Propagation Analysis.
+NumPy, NumExpr, Multiprocessing Package, Pandas, PyTorch, Scikit-learn, Matplotlib, SciPy, Refactoring for Parallel Execution, Statistical Analysis, Data Cleaning, Error Propagation Analysis.
 
 ## Numerical & Computational Methods
 

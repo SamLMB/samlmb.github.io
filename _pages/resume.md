@@ -66,8 +66,8 @@ My resume can be downloaded [here](http://smphd.com/files/resume_ECV.pdf).
 - Provide tutorial and office-hour support in both English and French upon student request.
 - 13 total TA assignments across 6 distinct courses, with some courses taught multiple semesters.
 - Undergraduate:
-  - CHEE 315: Fluid Mechanics (Fall 2018, Fall 2019, Fall 2021)
-  - CHEE 351: Heat and Mass Transfer (Winter 2019, Winter 2020)
+  - CHEE 314: Fluid Mechanics (Fall 2018, Fall 2019, Fall 2021)
+  - CHEE 315: Heat and Mass Transfer (Winter 2019, Winter 2020)
   - CHEE 400: Principles of Sustainable Energy Conversion (Fall 2022, Fall 2023, Fall 2024)
   - CHEE 440: Process Modelling (Winter 2022, Winter 2023, Winter 2024) -- lectured and tutored on PDE derivation, Laplace transforms, series solutions, dimensional analysis
 - Graduate:
@@ -203,7 +203,7 @@ NixOS, Nix (nix-shell for reproducible dev environments), Home Manager, Debian, 
 
 ## Data Science
 
-NumPy, NumExpr, Multiprocessing Package, Pandas, Scikit-learn, Matplotlib, SciPy, Refactoring for Parallel Execution, Statistical Analysis, Data Cleaning, Error Propagation Analysis.
+NumPy, NumExpr, Multiprocessing Package, Pandas, PyTorch, Scikit-learn, Matplotlib, SciPy, Refactoring for Parallel Execution, Statistical Analysis, Data Cleaning, Error Propagation Analysis.
 
 ## Numerical & Computational Methods
 
@@ -279,6 +279,7 @@ Technical Literature Review and Synthesis, Grant Writing (Digital Research Allia
 
 # Publications
 
+- Mohamed, M.; **Mathews, S.**; Rey, A.; Servio, P. Atomistic Investigations of Occupancy-Driven Structural Deformations in Binary H$_2$-THF Hydrates and Their Effect on Storage Capacity. Energies 2026, 19 (13), 3023. [10.3390/en19133023]([10.3390/en19133023](https://doi.org/10.3390/en19133023)).
 - **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Atomistic Modeling of Methane and Carbon Dioxide Structure I Gas Hydrates under Pressure: Guest Effects and Properties. Journal of Chemical Theory and Computation 2026, 22, 6, 3114–3124. [10.1021/acs.jctc.5c01868](https://doi.org/10.1021/acs.jctc.5c01868).
 - Guerra, A.; Wang, Z.; **Mathews, S.**; Rey, A. D.; France, K. D. Periodic Feature Characterization in Nanostructured Surfaces and Emulsions. Langmuir 2025, 41, 37, 25230–25241. [10.1021/acs.langmuir.5c02320](https://doi.org/10.1021/acs.langmuir.5c02320).
 - **Mathews, S.**; Zhu, X.; Guerra, A.; Servio, P.; Rey, A. Geometric Characterizations of Non-Uniform Structure I Methane Hydrate Behaviors Under Pressure. Crystals 2025, 15 (6), 518. [10.3390/cryst15060518](https://doi.org/10.3390/cryst15060518).
